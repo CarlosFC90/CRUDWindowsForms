@@ -1,0 +1,16 @@
+C:\Users\thebl\Desktop\Proyectos\CRUDUsers\bin\Debug\CRUDUsers.exe.config
+C:\Users\thebl\Desktop\Proyectos\CRUDUsers\bin\Debug\CRUDUsers.exe
+C:\Users\thebl\Desktop\Proyectos\CRUDUsers\bin\Debug\CRUDUsers.pdb
+C:\Users\thebl\Desktop\Proyectos\CRUDUsers\bin\Debug\EntityFramework.dll
+C:\Users\thebl\Desktop\Proyectos\CRUDUsers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thebl\Desktop\Proyectos\CRUDUsers\bin\Debug\EntityFramework.xml
+C:\Users\thebl\Desktop\Proyectos\CRUDUsers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thebl\Desktop\Proyectos\CRUDUsers\obj\Debug\CRUDUsers.csprojAssemblyReference.cache
+C:\Users\thebl\Desktop\Proyectos\CRUDUsers\obj\Debug\CRUDUsers.Form1.resources
+C:\Users\thebl\Desktop\Proyectos\CRUDUsers\obj\Debug\CRUDUsers.Properties.Resources.resources
+C:\Users\thebl\Desktop\Proyectos\CRUDUsers\obj\Debug\CRUDUsers.csproj.GenerateResource.cache
+C:\Users\thebl\Desktop\Proyectos\CRUDUsers\obj\Debug\CRUDUsers.csproj.CoreCompileInputs.cache
+C:\Users\thebl\Desktop\Proyectos\CRUDUsers\obj\Debug\CRUDUsers.csproj.CopyComplete
+C:\Users\thebl\Desktop\Proyectos\CRUDUsers\obj\Debug\CRUDUsers.exe
+C:\Users\thebl\Desktop\Proyectos\CRUDUsers\obj\Debug\CRUDUsers.pdb
+C:\Users\thebl\Desktop\Proyectos\CRUDUsers\obj\Debug\CRUDUsers.Presentacion.FrmTable.resources
